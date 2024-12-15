@@ -246,7 +246,7 @@ public void testCreateEmployee() throws Exception {
 ### **Step 1: Clone the Repository**
 Clone the repository:
 ```bash
-git clone https://github.com/your-repository/employee-management-system.git
+git clone https://github.com/AmolNisargan/amol_nisargan_java_project1
 cd employee-management-system
 ```
 
